@@ -16,7 +16,7 @@ Group 4 Check-in #1
 
 No specific formatting or word/page count is required, but do use the following headings to organize the information in a logical way:
 
-Project Idea
+# Project Idea
 
 Develop Quiz program questions from the book on WMD.
 
