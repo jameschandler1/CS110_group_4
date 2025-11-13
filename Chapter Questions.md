@@ -665,104 +665,89 @@ D) Arrests include only correct convictions
 Why was Kyle Behm rejected from the minimum-wage job he applied for at Kroger?
 A) His grades were too low
 B) He failed a background check
-C) A personality test algorithm labeled him as unsuitable
+C) A personality test algorithm labeled him as unsuitable ✅
 D) He did not submit his application on time
-Answer: C Kyle was red-lighted by a personality test created by Kronos which filtered him out before a human ever saw his application.
 
-What was Roland Behm most surprised to discover when investigating his son’s rejection?
+What surprised Roland Behm when he investigated his son’s job rejections?
 A) That the job market had become extremely competitive
-B) That personality tests were being used widely in hiring
+B) That personality tests were being used widely in hiring ✅
 C) That Kyle had misrepresented his work experience
 D) That companies were prioritizing employee referrals
-Answer: B He was shocked to learn that large corporations were heavily relying on personality tests to screen applicants.
 
-What is the primary stated purpose of hiring tests like the one made by Kronos?
+What is the primary purpose of hiring tests like the one made by Kronos?
 A) To identify the best applicant for a job
 B) To help employers train new workers
-C) To exclude as many applicants as possible cheaply
+C) To exclude as many people as possible cheaply ✅
 D) To measure academic intelligence
-Answer: C The test's main function is filtering out applicants quickly and inexpensively.
 
-Why are personality tests difficult for applicants to challenge legally?
-A) Companies destroy the test data immediately
+Why is it difficult for applicants to challenge personality test decisions legally?
+A) Companies destroy the test data
 B) The tests are protected by national security rules
-C) Applicants rarely know they were rejected because of test results
+C) Applicants rarely learn they were rejected because of test results ✅
 D) The tests are administered anonymously
-Answer: C Rejected applicants almost never learn that a personality test eliminated them.
 
 What major flaw does O’Neil highlight about personality tests used in hiring?
-A) They are too expensive for employers to use
-B) They rely on proxies that can misinterpret mental health and personality traits
+A) They are too expensive
+B) They rely on proxies that can misinterpret mental health and personality traits ✅
 C) They require applicants to have technical skills
 D) They can only be used for high-wage jobs
-Answer: B These tests use crude proxies that can wrongly flag people based on traits like mood or uniqueness.
 
 According to research by Frank Schmidt, how well do personality tests predict job performance?
 A) Perfectly
 B) Very well
 C) Moderately
-D) Poorly
-Answer: D Personality tests ranked very low as predictors of job success.
+D) Poorly ✅
 
 Why do companies continue using personality tests despite their flaws?
 A) They have been scientifically validated
-B) They are required by federal hiring law
-C) They scale easily and reduce hiring costs
+B) They are required by federal law
+C) They scale easily and reduce hiring costs ✅
 D) Applicants prefer them to interviews
-Answer: C Companies use them because they automate screening and save money.
 
 What major danger arises from automating hiring decisions with opaque models?
 A) Too many applicants receive interviews
-B) Hiring becomes completely random
-C) Biases in the model scale across millions of workers
+B) Hiring becomes random
+C) Biases in the model scale across millions of workers ✅
 D) Companies lose applicants’ data
-Answer: C Biases, once encoded, scale massively and harm large populations.
 
 What did studies from the early 2000s reveal about resumes with stereotypically Black names?
 A) They received more callbacks
-B) They received far fewer callbacks than identical resumes with white-sounding names
-C) They were ignored by resume readers completely
-D) They were sorted into special diversity pools
-Answer: B Resumes with names like Lakisha or Jamal received significantly fewer callbacks.
+B) They received far fewer callbacks than identical resumes with white-sounding names ✅
+C) They were ignored by resume readers
+D) They were sorted into diversity pools
 
 What hiring practice in orchestras provides an example of reducing bias?
 A) Using personality tests
-B) Blind auditions where musicians perform behind a screen
+B) Blind auditions where musicians perform behind a screen ✅
 C) Requiring recommendations from elite institutions
-D) Automated ranking of applicants
-Answer: B Blind auditions removed visual bias and increased fairness.
+D) Automated ranking
 
-What is one problem with modern resume-scanning software?
-A) It reads resumes too slowly
-B) It cannot process simple text
-C) It penalizes resumes with fancy fonts or images
-D) It ignores work experience
-Answer: C Decorative fonts and images confuse the software and hurt applicants.
+What problem do modern resume-scanning systems have?
+A) They read resumes too slowly
+B) They cannot process simple text
+C) They penalize resumes with fancy fonts or images ✅
+D) They ignore work experience
 
 Why did the automated system at St. George’s Medical School become a WMD?
-A) It rejected all applicants under the age of 25
-B) It relied entirely on nationality, race, and gender proxies
+A) It rejected all applicants under 25
+B) It relied on proxies for nationality race and gender that reproduced discrimination at scale ✅
 C) It accepted too many students
 D) It focused on applicants’ athletic performance
-Answer: B The system learned past biases and reproduced discriminatory patterns at scale.
 
-What correlation in the Xerox churn model raised concerns about fairness?
-A) Applicants who lived far from work were more likely to quit
+What correlation in the Xerox churn model raised fairness concerns?
+A) Applicants who lived far from work were more likely to quit ✅
 B) Applicants with advanced degrees were less reliable
 C) Applicants with high test scores quit too often
 D) Applicants who changed jobs often performed better
-Answer: A Long commute distances strongly predicted churn, but this proxy unfairly targeted poor neighborhoods.
 
 Why does O’Neil compare some hiring models to nineteenth-century phrenology?
-A) Both require extensive training
-B) Both rely on untested assumptions disguised as science
+A) Both require advanced training
+B) Both rely on untested assumptions disguised as science ✅
 C) Both accurately measure human potential
 D) Both are used mainly in medicine
-Answer: B Hiring models often rely on unvalidated assumptions, similar to phrenology’s pseudoscience.
 
 What concern does O’Neil raise about the growing use of Big Data in hiring?
-A) It will eliminate all discrimination
-B) It will lead to companies hiring too many workers
-C) It may reinforce old biases and create new ones
-D) It will make job applications faster
-Answer: C As data expands, models may entrench prejudice and inequality rather than reduce it.
+A) It will eliminate discrimination
+B) It will cause companies to hire too many workers
+C) It may reinforce old biases and create new ones ✅
+D) It will make applications faster
