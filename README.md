@@ -30,7 +30,7 @@ Information from the book. Search engine and/or AI research to amplify or valida
 
 ## Roles
 # Walter Powers works on Input code and questions
-Check-in #2 progress: continuing	to develop input prompts for questions regarding our course textbook.
+Check-in #2 progress: Provided input code to use in GUI from supplied questions and answers that was posted. The team hasn't decided the questions yet but I used the ones already supplied with the answer key for an example.
 
 
 
